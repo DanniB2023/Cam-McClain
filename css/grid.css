@@ -544,13 +544,7 @@ input:focus{
     }
 }
 
-@media only screen and (max-width: 767px){
 
-    .feature img{
-        max-width: 314px;
-        max-height: 314px;
-    }
-}
 
 
 
